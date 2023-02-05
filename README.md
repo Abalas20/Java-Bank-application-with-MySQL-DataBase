@@ -1,12 +1,10 @@
 # Java Bank application with MySQL DataBase
 
-#### This Java project is a basic banking system that includes a login/signup window and an ATM window. 
+### This Java project is a basic banking system that includes a login/signup window and an ATM window. 
+
 #### Users can either log into their existing account or create a new account. 
 
-<a href="https://user-images.githubusercontent.com/106878449/216835471-9d857f3d-6857-4c66-adae-b7240969b2af.mp4">
-  <img src="https://user-images.githubusercontent.com/106878449/216836615-df67f6ef-28ec-4175-ab8b-9fea42106f05.png">
-</a>
-
+https://user-images.githubusercontent.com/106878449/216835471-9d857f3d-6857-4c66-adae-b7240969b2af.mp4
 
 #### Once they create an account, users can enter their card number and PIN to access the ATM window and perform transactions.
 
