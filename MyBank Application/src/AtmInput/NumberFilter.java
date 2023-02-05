@@ -13,7 +13,7 @@ public class NumberFilter extends DocumentFilter {
 	
 	  @Override
 	  public void insertString(FilterBypass fb, int offset, String string, AttributeSet attr) throws BadLocationException {
-	    // Only insert the text if it consists only of digits
+	    // Insert the text if it consists only of digits
 	    if (string.matches("\\d") && fb.getDocument().getLength() + string.toString().length() <= acceptabaleLength) {
 	      super.insertString(fb, offset, string.toString(), attr);
 	    }
