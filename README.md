@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/106878449/216837688-4c170af7-168f-4b96
 
 #### This Java project also features a Booking System, allowing users to make appointments with bank operators. The booking process is designed to mimic a phone call, with a phone-like interface popping up when the booking button is pressed.
 
-https://user-images.githubusercontent.com/106878449/216835688-735fadac-7e1b-4a36-bb69-fe32561e1f66.mp4
+https://user-images.githubusercontent.com/106878449/216837989-71809922-34e2-45ef-a817-31d1b7f5327e.mp4
 
 #### The following database diagrams showcase the design and structure of the database used in the Java project. They provide a visual representation of the data relationships, entities, and attributes stored in the database to support the login/signup, ATM and booking functionality.
 
