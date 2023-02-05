@@ -4,11 +4,11 @@
 
 #### Users can either log into their existing account or create a new account. 
 
-https://user-images.githubusercontent.com/106878449/216835471-9d857f3d-6857-4c66-adae-b7240969b2af.mp4
+https://user-images.githubusercontent.com/106878449/216837502-abde7870-e261-456d-be92-5b85753327ec.mp4
 
 #### Once they create an account, users can enter their card number and PIN to access the ATM window and perform transactions.
 
-https://user-images.githubusercontent.com/106878449/216835618-f3e82d5f-b91f-4828-8dca-8fc408843dfe.mp4
+https://user-images.githubusercontent.com/106878449/216837688-4c170af7-168f-4b96-bfe9-1d0801f86e1f.mp4
 
 #### This Java project also features a Booking System, allowing users to make appointments with bank operators. The booking process is designed to mimic a phone call, with a phone-like interface popping up when the booking button is pressed.
 
